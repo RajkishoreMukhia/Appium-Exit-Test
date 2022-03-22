@@ -48,7 +48,7 @@ public class Reversing extends BaseClass {
 		
 		//Assertion for validate the test
 		if(isEnable == true) {
-			Assert.assertEquals(isEnable, false);
+			Assert.assertEquals(isEnable, true);
 			log.loger.info("Assertion is pass succsessfully");
 			
 		}
