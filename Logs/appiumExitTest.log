@@ -1,0 +1,23 @@
+2022-03-22 18:32:25,846  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 18:33:00,031  INFO [main] Display:80 - Assertion is Fail
+ 2022-03-22 18:33:00,582  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 18:33:00,584  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 18:33:03,674  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 18:33:12,758  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 18:33:50,313  INFO [main] Display:101 - Assertion Show Custom view pass successfully
+ 2022-03-22 18:33:50,758  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 18:33:50,759  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 18:33:53,837  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 18:34:02,287  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 18:34:23,473  INFO [main] Animation Screen:32 - Click on animation
+ 2022-03-22 18:34:26,095  INFO [main] Animation Screen:39 - click on hide show btn
+ 2022-03-22 18:34:29,506  INFO [main] Animation Screen:46 - click on hide btn
+ 2022-03-22 18:34:33,071  INFO [main] Animation Screen:52 - Number btn are hide
+ 2022-03-22 18:34:33,319  INFO [main] Animation Screen:61 - Assertion is Fail
+ 2022-03-22 18:34:33,809  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 18:34:33,810  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 18:34:36,894  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 18:34:44,373  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 18:35:04,022  INFO [main] Animation Screen:32 - Click on animation
+ 2022-03-22 18:35:06,665  INFO [main] Animation Screen:39 - click on hide show btn
+ 
