@@ -29,6 +29,9 @@ We are using maven dependencies in our [pom.xml](https://github.com/RajkishoreMu
 * [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html )
 * [Cucumber](https://cucumber.io/docs/installation/java/)
 
+### Roadmap
+
+
 ### Executing program
 
 * To run the program 
@@ -49,17 +52,32 @@ e.g @ani, @dis or @rev
 ```
 Use tag = @smoke
 ```
+* To run from Command prompt
 
+```
+Open BatchFile --> click on Run.bat 
+```
+* Also to run from Command prompt
+
+```
+Right click on project file --> Show In --> Terminal 
+```
+```
+Then enter this code : mvn test -Dcucumber.options="--tags @tag Name" 
+```
+```
+tag Name = @ani, @dis, @rev, @smoke
+```
 
 ## Contact
 
 Rajkishore Mukhia - [@GitUb](https://github.com/RajkishoreMukhia) - [@Gmail](rajkishoremukhia@gmial.com)
 
-Project Link:()
+Project Link: [https://github.com/RajkishoreMukhia/Appium-Exit-Test.git](https://github.com/RajkishoreMukhia/Appium-Exit-Test.git)
 
 ## Application
 
-[ApiDemos-debug.apk]()
+[ApiDemos-debug.apk](https://github.com/RajkishoreMukhia/Appium-Exit-Test/blob/7238ebc38ec8a428a449658721d686629e4ebe2e/Application/ApiDemos-debug.apk)
 
 ## Acknowledgments
 

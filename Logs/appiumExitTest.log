@@ -20,4 +20,128 @@
  2022-03-22 18:34:44,373  INFO [main] Animation Screen:24 - Start The App
  2022-03-22 18:35:04,022  INFO [main] Animation Screen:32 - Click on animation
  2022-03-22 18:35:06,665  INFO [main] Animation Screen:39 - click on hide show btn
+ 2022-03-22 20:00:24,012  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:00:36,516  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:01:21,117  INFO [main] Display:52 - Assertion Show Home Logo apper successfully
+ 2022-03-22 20:01:21,676  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:01:24,749  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:01:24,787  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:01:35,164  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:02:12,495  INFO [main] Display:80 - Assertion is Fail
+ 2022-03-22 20:02:13,017  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:02:16,150  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:02:16,166  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:02:24,416  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:03:02,723  INFO [main] Display:101 - Assertion Show Custom view pass successfully
+ 2022-03-22 20:03:03,527  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:03:06,606  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:03:06,618  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:03:12,623  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:03:28,897  INFO [main] Animation Screen:32 - Click on animation
+ 2022-03-22 20:03:32,307  INFO [main] Animation Screen:39 - click on hide show btn
+ 2022-03-22 20:03:34,900  INFO [main] Animation Screen:46 - click on hide btn
+ 2022-03-22 20:03:37,754  INFO [main] Animation Screen:52 - Number btn are hide
+ 2022-03-22 20:03:37,956  INFO [main] Animation Screen:61 - Assertion is Fail
+ 2022-03-22 20:03:38,287  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:03:41,354  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:03:41,366  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:03:45,821  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:04:01,190  INFO [main] Animation Screen:32 - Click on animation
+ 2022-03-22 20:04:04,737  INFO [main] Animation Screen:39 - click on hide show btn
+ 2022-03-22 20:04:07,541  INFO [main] Animation Screen:46 - click on hide btn
+ 2022-03-22 20:04:10,371  INFO [main] Animation Screen:69 - click on hide btn
+ 2022-03-22 20:04:11,658  INFO [main] Animation Screen:76 - Number btn are shown
+ 2022-03-22 20:04:11,868  INFO [main] Animation Screen:85 - Exit the applicaton
+ 2022-03-22 20:04:12,110  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:04:15,188  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:04:15,202  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:04:18,675  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:04:33,367  INFO [main] Animation Screen:32 - Click on animation
+ 2022-03-22 20:04:36,153  INFO [main] Resvers_Screen:22 - Click On Reversing Tab
+ 2022-03-22 20:04:37,766  INFO [main] Resvers_Screen:29 - Click On Play Button
+ 2022-03-22 20:04:41,122  INFO [main] Resvers_Screen:41 - Click On Revers Button
+ 2022-03-22 20:04:44,216  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:04:47,290  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:12:05,358  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:12:10,223  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:12:32,181  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:12:35,250  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:12:37,335  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:12:41,663  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:13:04,978  INFO [main] Display:80 - Assertion is Fail
+ 2022-03-22 20:13:05,218  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:13:08,295  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:13:08,304  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:13:12,632  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:13:35,841  INFO [main] Display:101 - Assertion Show Custom view pass successfully
+ 2022-03-22 20:13:36,036  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:13:39,103  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:13:39,114  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:13:43,632  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:13:55,500  INFO [main] Animation Screen:32 - Click on animation
+ 2022-03-22 20:13:58,321  INFO [main] Animation Screen:39 - click on hide show btn
+ 2022-03-22 20:14:02,191  INFO [main] Animation Screen:46 - click on hide btn
+ 2022-03-22 20:14:04,859  INFO [main] Animation Screen:52 - Number btn are hide
+ 2022-03-22 20:14:05,024  INFO [main] Animation Screen:61 - Assertion is Fail
+ 2022-03-22 20:14:05,247  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:14:08,320  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:14:08,328  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:14:13,029  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:14:27,691  INFO [main] Animation Screen:32 - Click on animation
+ 2022-03-22 20:14:31,274  INFO [main] Animation Screen:39 - click on hide show btn
+ 2022-03-22 20:14:34,206  INFO [main] Animation Screen:46 - click on hide btn
+ 2022-03-22 20:14:36,996  INFO [main] Animation Screen:69 - click on hide btn
+ 2022-03-22 20:14:38,312  INFO [main] Animation Screen:76 - Number btn are shown
+ 2022-03-22 20:14:38,488  INFO [main] Animation Screen:85 - Exit the applicaton
+ 2022-03-22 20:14:38,747  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:14:41,814  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:14:41,823  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:14:46,231  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:15:06,698  INFO [main] Animation Screen:32 - Click on animation
+ 2022-03-22 20:15:09,914  INFO [main] Resvers_Screen:22 - Click On Reversing Tab
+ 2022-03-22 20:15:11,401  INFO [main] Resvers_Screen:29 - Click On Play Button
+ 2022-03-22 20:15:14,778  INFO [main] Resvers_Screen:41 - Click On Revers Button
+ 2022-03-22 20:15:17,748  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:15:20,814  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:16:31,484  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:16:35,799  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:17:06,156  INFO [main] Display:52 - Assertion Show Home Logo apper successfully
+ 2022-03-22 20:17:06,610  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:17:09,680  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:17:09,710  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:17:13,787  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:17:35,696  INFO [main] Display:80 - Assertion is Fail
+ 2022-03-22 20:17:35,908  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:17:38,987  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:17:39,006  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:17:43,574  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:18:04,715  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:18:07,792  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:18:09,882  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:18:14,464  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:18:33,886  INFO [main] Animation Screen:32 - Click on animation
+ 2022-03-22 20:18:36,837  INFO [main] Animation Screen:39 - click on hide show btn
+ 2022-03-22 20:18:39,492  INFO [main] Animation Screen:46 - click on hide btn
+ 2022-03-22 20:18:43,387  INFO [main] Animation Screen:52 - Number btn are hide
+ 2022-03-22 20:18:43,925  INFO [main] Animation Screen:61 - Assertion is Fail
+ 2022-03-22 20:18:45,042  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:18:48,112  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:18:48,125  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:18:56,734  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:19:12,012  INFO [main] Animation Screen:32 - Click on animation
+ 2022-03-22 20:19:14,543  INFO [main] Animation Screen:39 - click on hide show btn
+ 2022-03-22 20:19:17,149  INFO [main] Animation Screen:46 - click on hide btn
+ 2022-03-22 20:19:20,608  INFO [main] Animation Screen:69 - click on hide btn
+ 2022-03-22 20:19:22,623  INFO [main] Animation Screen:76 - Number btn are shown
+ 2022-03-22 20:19:22,890  INFO [main] Animation Screen:85 - Exit the applicaton
+ 2022-03-22 20:19:23,261  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:19:26,329  INFO [main] Hooks:29 - Stop the Driver
+ 2022-03-22 20:19:26,345  INFO [main] Hooks:21 - Start Appium 
+ 2022-03-22 20:19:30,805  INFO [main] Animation Screen:24 - Start The App
+ 2022-03-22 20:19:53,544  INFO [main] Animation Screen:32 - Click on animation
+ 2022-03-22 20:19:57,263  INFO [main] Resvers_Screen:22 - Click On Reversing Tab
+ 2022-03-22 20:19:58,964  INFO [main] Resvers_Screen:29 - Click On Play Button
+ 2022-03-22 20:20:02,441  INFO [main] Resvers_Screen:41 - Click On Revers Button
+ 2022-03-22 20:20:06,041  INFO [main] Hooks:38 - Close the Server
+ 2022-03-22 20:20:09,113  INFO [main] Hooks:29 - Stop the Driver
  
