@@ -31,8 +31,27 @@ We are using maven dependencies in our [pom.xml](https://github.com/RajkishoreMu
 
 ### Roadmap
 
+* Test Case 1 : Animation Hide Btn
+
+
+* Test Case 2 : Animatioon Show Btn
+
+
+* Test Case 3 : Display Show Button Option
+
+
+* Test Case 4 : Display Show Button Option
+
+
+* Test Case 5 : Display Show Button Option
+
+
+* Test Case 6 : Reversing animation btn check
+
 
 ### Executing program
+
+##### All the test cases are in runable state.
 
 * To run the program 
 
@@ -68,6 +87,15 @@ Then enter this code : mvn test -Dcucumber.options="--tags @tag Name"
 ```
 tag Name = @ani, @dis, @rev, @smoke
 ```
+## Utilites
+All the utilites folder are here
+
+* Aplication in Application folder
+* Logs are in Logs folder
+* Reports are in Reports folder
+* Screenshots are in Screenshots folder
+
+
 
 ## Contact
 
